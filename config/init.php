@@ -7,7 +7,7 @@ define("APP", ROOT."/app");
 define("CORE", ROOT."/vendor/wfm");
 define("HELPERS", ROOT."/vendor/wfm/helpers");
 define("CASH", ROOT."/tmp/cash");
-define("LOGS", ROOT."/tmp/log");
+define("LOGS", ROOT."/tmp/logs");
 define("CONFIG", ROOT."/config");
 define("LAYOUT", ROOT."/ishop");
 define("PATH", "http://new-ishop.loc");

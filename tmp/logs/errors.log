@@ -1,0 +1,276 @@
+[2024-09-16 23:57:16] Текст ошибки: Voznikla oshibka | Файл: E:\OSPanel\home\PHPFramework\public\index.php
+| Строка: 14
+==========
+[2024-09-16 23:57:16] Текст ошибки: Voznikla oshibka | Файл: E:\OSPanel\home\PHPFramework\public\index.php
+| Строка: 14
+==========
+[2024-09-17 00:13:44] Текст ошибки: Voznikla oshibka | Файл: E:\OSPanel\home\PHPFramework\public\index.php
+| Строка: 14
+==========
+[2024-09-17 00:13:44] Текст ошибки: Voznikla oshibka | Файл: E:\OSPanel\home\PHPFramework\public\index.php
+| Строка: 14
+==========
+[2024-09-17 00:13:49] Текст ошибки: Voznikla oshibka | Файл: E:\OSPanel\home\PHPFramework\public\index.php
+| Строка: 14
+==========
+[2024-09-17 00:13:50] Текст ошибки: Voznikla oshibka | Файл: E:\OSPanel\home\PHPFramework\public\index.php
+| Строка: 14
+==========
+[2024-09-17 00:14:19] Текст ошибки: Voznikla oshibka | Файл: E:\OSPanel\home\PHPFramework\public\index.php
+| Строка: 14
+==========
+[2024-09-17 00:14:19] Текст ошибки: Voznikla oshibka | Файл: E:\OSPanel\home\PHPFramework\public\index.php
+| Строка: 14
+==========
+[2024-09-17 00:16:28] Текст ошибки: Voznikla oshibka | Файл: E:\OSPanel\home\PHPFramework\public\index.php
+| Строка: 14
+==========
+[2024-09-17 00:16:28] Текст ошибки: Voznikla oshibka | Файл: E:\OSPanel\home\PHPFramework\public\index.php
+| Строка: 14
+==========
+[2024-09-17 00:16:29] Текст ошибки: Voznikla oshibka | Файл: E:\OSPanel\home\PHPFramework\public\index.php
+| Строка: 14
+==========
+[2024-09-17 00:16:29] Текст ошибки: Voznikla oshibka | Файл: E:\OSPanel\home\PHPFramework\public\index.php
+| Строка: 14
+==========
+[2024-09-17 00:18:39] Текст ошибки: Undefined variable $test | Файл: E:\OSPanel\home\PHPFramework\public\index.php
+| Строка: 15
+==========
+[2024-09-17 00:18:39] Текст ошибки: Undefined variable $test | Файл: E:\OSPanel\home\PHPFramework\public\index.php
+| Строка: 15
+==========
+[2024-09-17 14:43:49] Текст ошибки: Access to undeclared static property wfm\Router::$route | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 23
+==========
+[2024-09-17 14:43:49] Текст ошибки: Access to undeclared static property wfm\Router::$route | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 23
+==========
+[2024-09-17 14:43:59] Текст ошибки: Access to undeclared static property wfm\Router::$route | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 23
+==========
+[2024-09-17 14:43:59] Текст ошибки: Access to undeclared static property wfm\Router::$route | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 23
+==========
+[2024-09-17 22:05:37] Текст ошибки: Контроллер app\controllers\ProductController не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 42
+==========
+[2024-09-17 22:05:37] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 45
+==========
+[2024-09-17 22:06:25] Текст ошибки: Контроллер app\controllers\ProductController не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 42
+==========
+[2024-09-17 22:06:39] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 42
+==========
+[2024-09-17 22:06:48] Текст ошибки: Контроллер app\controllers\ProductController не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 42
+==========
+[2024-09-17 22:06:50] Текст ошибки: Контроллер app\controllers\ProductController не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 42
+==========
+[2024-09-17 22:06:50] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 42
+==========
+[2024-09-17 22:06:51] Текст ошибки: Метод app\controllers\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:06:52] Текст ошибки: Метод app\controllers\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:06:53] Текст ошибки: Метод app\controllers\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:07:50] Текст ошибки: Метод app\controllers\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:07:50] Текст ошибки: Метод app\controllers\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:07:50] Текст ошибки: Метод app\controllers\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:07:51] Текст ошибки: Метод app\controllers\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:07:51] Текст ошибки: Метод app\controllers\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:07:51] Текст ошибки: Метод app\controllers\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:07:54] Текст ошибки: Метод app\controllers\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:08:40] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 45
+==========
+[2024-09-17 22:09:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 45
+==========
+[2024-09-17 22:10:45] Текст ошибки: Контроллер app\controllers\ProductController не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 42
+==========
+[2024-09-17 22:12:21] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 42
+==========
+[2024-09-17 22:13:51] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:13:52] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:13:53] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:13:53] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:13:53] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:13:54] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:14:08] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:14:08] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:14:09] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:14:09] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:15:24] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:15:25] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:15:25] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:15:26] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:15:26] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:15:36] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:15:37] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:15:37] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:15:38] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:15:38] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:15:52] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:16:10] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:16:11] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:16:11] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:16:11] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:17:14] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:17:15] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:17:15] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:17:31] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:17:31] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:17:32] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:17:32] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:17:42] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:17:43] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:17:43] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:18:02] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:18:02] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:18:03] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:19:32] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:19:32] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:19:33] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:19:33] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:19:33] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:19:33] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:19:33] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:19:34] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:19:34] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:19:34] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:19:34] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:19:35] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:19:45] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:23:59] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
+[2024-09-17 22:25:03] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 39
+==========
