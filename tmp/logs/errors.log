@@ -274,3 +274,147 @@
 [2024-09-17 22:25:03] Текст ошибки: Метод app\controllers\admin\MainController::actionindexAction не найден | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
 | Строка: 39
 ==========
+[2024-09-19 17:11:42] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 57
+==========
+[2024-09-19 19:22:30] Текст ошибки: Class "app\model\Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 24
+==========
+[2024-09-19 22:04:46] Текст ошибки: Не найден вид E:\OSPanel\home\PHPFramework/app/view/Main/index.php | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 37
+==========
+[2024-09-19 22:04:47] Текст ошибки: Не найден вид E:\OSPanel\home\PHPFramework/app/view/Main/index.php | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 37
+==========
+[2024-09-19 22:04:48] Текст ошибки: Не найден вид E:\OSPanel\home\PHPFramework/app/view/Main/index.php | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 37
+==========
+[2024-09-19 22:09:15] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:14:01] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:14:02] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:14:51] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:14:52] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:14:53] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:15:39] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:15:40] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:15:54] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:15:55] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:15:55] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:15:55] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:15:55] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:15:56] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:15:56] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:17:39] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:18:40] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:18:40] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:18:41] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 45
+==========
+[2024-09-19 22:19:08] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:19:34] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:20:55] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:21:13] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:21:37] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:23:19] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:23:20] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:23:24] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:23:25] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:23:26] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:26:46] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:26:47] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:26:48] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:26:48] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:26:48] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:28:57] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:29:41] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:30:46] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:31:48] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:39:56] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/views/layouts//ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:40:19] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/views/layouts//ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:40:32] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/views/layouts//ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:40:51] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/views/layouts/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========
+[2024-09-19 22:41:36] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFrameworkapp/views/layouts/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 46
+==========

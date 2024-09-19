@@ -1,11 +1,14 @@
 <?php
 
 namespace app\controllers;
-class MainController
+
+use wfm\Controller;
+
+class MainController extends Controller
 {
 
-    public function actionIndex(): void
+    public function indexAction(): void
     {
-        echo 'Hello World!';
+
     }
 }

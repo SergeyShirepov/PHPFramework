@@ -1,3 +1,10 @@
+<?php
+use wfm\View;
+
+/** @var $this View*/
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +14,7 @@
 </head>
 <body>
 
-Content
+<?= $this->content ?>
 
 </body>
 </html>
