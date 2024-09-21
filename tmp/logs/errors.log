@@ -418,3 +418,108 @@
 [2024-09-19 22:41:36] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFrameworkapp/views/layouts/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
 | Строка: 46
 ==========
+[2024-09-21 19:03:07] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 63
+==========
+[2024-09-21 19:13:57] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:14:22] Текст ошибки: Undefined array key "tittle" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:14:23] Текст ошибки: Undefined array key "tittle" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:17:22] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:17:23] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:17:54] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:17:55] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:17:55] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:19:39] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 54
+==========
+[2024-09-21 19:26:29] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 50
+==========
+[2024-09-21 19:27:11] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 54
+==========
+[2024-09-21 19:27:17] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 54
+==========
+[2024-09-21 19:31:39] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 54
+==========
+[2024-09-21 19:32:34] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 54
+==========
+[2024-09-21 19:34:49] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:34:50] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:34:51] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:35:04] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 54
+==========
+[2024-09-21 19:35:05] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 54
+==========
+[2024-09-21 19:38:27] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:38:32] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-09-21 19:44:45] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:44:46] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:45:21] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:45:29] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:45:29] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:46:42] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:48:35] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:48:44] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 53
+==========
+[2024-09-21 19:54:01] Текст ошибки: Undefined variable $controllerObject | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 54
+==========
+[2024-09-21 19:54:02] Текст ошибки: Undefined variable $controllerObject | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 54
+==========
+[2024-09-21 19:54:02] Текст ошибки: Undefined variable $controllerObject | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 54
+==========
+[2024-09-21 19:54:03] Текст ошибки: Undefined variable $controllerObject | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 54
+==========
+[2024-09-21 19:55:07] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 55
+==========

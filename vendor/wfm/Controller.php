@@ -25,10 +25,14 @@ public object $model;
             $this->model = new $model();
         }
     }
+
+    /**
+     * @throws \Exception
+     */
     public function  getView(): void
     {
         $this->view = $this->view ?: $this->route['action'];
-        (new View($this->route, $this->layout, $this->view))->render($this->data);
+        (new View($this->route, $this->layout, $this->view, $this->meta))->render($this->data);
         }
 
     public function  set($data)
@@ -36,10 +40,10 @@ public object $model;
         $this->data = $data;
     }
 
-    public function  setMeta($tittle='', $description='', $keywords='')
+    public function  setMeta($title='', $description='', $keywords=''): void
     {
         $this->meta = [
-            'tittle' => $tittle,
+            'title' => $title,
             'description' => $description,
             'keywords' => $keywords,
         ];
