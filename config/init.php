@@ -10,8 +10,8 @@ define("CASH", ROOT."/tmp/cash");
 define("LOGS", ROOT."/tmp/logs");
 define("CONFIG", ROOT."/config");
 define("LAYOUT", ROOT."/app/views/layouts/ishop");
-define("PATH", "http://new-ishop.loc");
-define("ADMIN", "http://new-ishop.loc/admin");
+define("PATH", "http://new-ishop");
+define("ADMIN", "http://new-ishop/admin");
 define("NO_IMAGE", "uploads/no_image.jpg");
 
 require_once ROOT ."/vendor/autoload.php";

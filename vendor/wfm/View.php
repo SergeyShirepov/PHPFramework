@@ -32,7 +32,6 @@ class View
         }
         $prefix = str_replace('\\','/',$this->route['admin_prefix']);
         $view_file = APP."/views/{$prefix}{$this->route['controller']}/{$this->view}.php";
-        var_dump($view_file);
         if (is_file($view_file)){
             ob_start();
             require_once $view_file;

@@ -36,7 +36,7 @@ public object $model;
         (new View($this->route, $this->layout, $this->view, $this->meta))->render($this->data);
         }
 
-    public function  set($data)
+    public function  set($data): void
     {
         $this->data = $data;
     }
