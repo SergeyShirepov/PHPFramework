@@ -42,7 +42,7 @@ class Router
     {
         $url =self::removeQueryString($url);
         if (self::matchRoute($url)) {
-            $controller = 'app\\controllers\\' .self::$route['admin_prefix'] . self::$route['controller'] . 'Controller';
+            $controller = 'app\controllers\\' .self::$route['admin_prefix'] . self::$route['controller'] . 'Controller';
         if (class_exists($controller)) {
 
             /** @var Controller $controllerObject*/
@@ -84,7 +84,6 @@ class Router
                 }
                 $route['controller'] = self::upperCamelCase($route['controller']);
                 self::$route = $route;
-                debug($route);
                 return true;
             }
         }

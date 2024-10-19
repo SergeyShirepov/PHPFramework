@@ -4,7 +4,7 @@ namespace wfm;
 
 trait TSingleton
 {
- private static ?self $instance = null;
+ private static ? self $instance = null;
 
  private function __construct() {}
 

@@ -523,3 +523,3032 @@
 [2024-09-21 19:55:07] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
 | Строка: 55
 ==========
+[2024-10-15 23:00:14] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:00:15] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-15 23:12:36] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:13:02] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:13:03] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:13:03] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:13:04] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:13:51] Текст ошибки: Undefined variable $model | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:13:57] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:14:14] Текст ошибки: compact(): Undefined variable $names | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 17
+==========
+[2024-10-15 23:14:37] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:14:38] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:14:39] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:21:13] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:21:14] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:21:15] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:21:15] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:21:16] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:21:33] Текст ошибки: Typed property app\controllers\MainController::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-15 23:22:02] Текст ошибки: Type of app\controllers\MainController::$model must be object (as in class wfm\Controller) | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 10
+==========
+[2024-10-15 23:22:13] Текст ошибки: Typed property app\controllers\MainController::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-15 23:22:22] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:26:03] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:26:04] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:26:05] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:26:05] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-15 23:33:58] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-15 23:33:59] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-15 23:34:00] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-15 23:34:00] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-15 23:34:01] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-15 23:34:02] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-15 23:34:03] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-15 23:34:08] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-15 23:34:09] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-15 23:36:16] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 25
+==========
+[2024-10-15 23:36:17] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 25
+==========
+[2024-10-15 23:36:18] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 25
+==========
+[2024-10-15 23:36:18] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 25
+==========
+[2024-10-15 23:36:18] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 25
+==========
+[2024-10-15 23:36:18] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 25
+==========
+[2024-10-15 23:36:19] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 25
+==========
+[2024-10-15 23:36:19] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 25
+==========
+[2024-10-15 23:36:19] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 25
+==========
+[2024-10-15 23:36:49] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-15 23:36:50] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-15 23:36:50] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-15 23:36:50] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-15 23:37:01] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 19
+==========
+[2024-10-15 23:38:22] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 19
+==========
+[2024-10-15 23:54:22] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 19
+==========
+[2024-10-15 23:58:47] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 23
+==========
+[2024-10-15 23:58:48] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 23
+==========
+[2024-10-15 23:58:48] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 23
+==========
+[2024-10-15 23:58:49] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 23
+==========
+[2024-10-15 23:58:50] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 23
+==========
+[2024-10-15 23:59:30] Текст ошибки: Model is not initialized | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 23
+==========
+[2024-10-16 00:00:21] Текст ошибки: Model is not initialized | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 23
+==========
+[2024-10-16 00:00:23] Текст ошибки: Model is not initialized | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 23
+==========
+[2024-10-16 00:00:24] Текст ошибки: Model is not initialized | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 23
+==========
+[2024-10-16 00:01:43] Текст ошибки: Model is not initialized | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 19
+==========
+[2024-10-16 00:01:43] Текст ошибки: Model is not initialized | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 19
+==========
+[2024-10-16 00:01:44] Текст ошибки: Model is not initialized | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 19
+==========
+[2024-10-16 00:04:16] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-16 00:06:30] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-16 00:06:32] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-16 00:06:35] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-16 00:06:46] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 18:27:43] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:27:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 18:59:14] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:16] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:16] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:17] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:18] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:18] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:18] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:18] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:19] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:19] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:19] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:20] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:21] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:21] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:21] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:22] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:22] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:28] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:29] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 18:59:30] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:00:57] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:00:58] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:00:58] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:00:59] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:00:59] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:00:59] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:01:00] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:01:01] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:01:03] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:02:01] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:02:02] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:02:02] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:02:03] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:02:03] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:02:03] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:02:03] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:02:04] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:02:04] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:02:04] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:02:05] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:02:05] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:02:06] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:02:06] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:09:53] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:09:54] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:09:54] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:09:54] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:09:55] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:09:56] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:09:57] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:12:28] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:12:29] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:12:29] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 20
+==========
+[2024-10-17 19:13:06] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 17
+==========
+[2024-10-17 19:13:35] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:13:36] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:13:36] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:13:37] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:13:37] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:13:39] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:14:18] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:15:26] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:16:10] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:16:11] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:16:11] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:16:11] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:22:53] Текст ошибки: Call to undefined method app\controllers\MainController::get_names() | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:22:54] Текст ошибки: Call to undefined method app\controllers\MainController::get_names() | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:22:55] Текст ошибки: Call to undefined method app\controllers\MainController::get_names() | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:28:31] Текст ошибки: Cannot assign string to property wfm\Controller::$model of type object | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 29
+==========
+[2024-10-17 19:28:32] Текст ошибки: Cannot assign string to property wfm\Controller::$model of type object | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 29
+==========
+[2024-10-17 19:28:33] Текст ошибки: Cannot assign string to property wfm\Controller::$model of type object | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 29
+==========
+[2024-10-17 19:28:33] Текст ошибки: Cannot assign string to property wfm\Controller::$model of type object | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 29
+==========
+[2024-10-17 19:28:46] Текст ошибки: Cannot assign array to property wfm\Controller::$model of type object | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 29
+==========
+[2024-10-17 19:28:47] Текст ошибки: Cannot assign array to property wfm\Controller::$model of type object | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 29
+==========
+[2024-10-17 19:28:47] Текст ошибки: Cannot assign array to property wfm\Controller::$model of type object | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 29
+==========
+[2024-10-17 19:28:48] Текст ошибки: Cannot assign array to property wfm\Controller::$model of type object | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 29
+==========
+[2024-10-17 19:28:48] Текст ошибки: Cannot assign array to property wfm\Controller::$model of type object | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 29
+==========
+[2024-10-17 19:29:41] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:29:42] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:29:43] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:29:43] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:33:37] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:33:40] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:33:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:34:43] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:34:47] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 19:37:57] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 19:37:58] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 19:37:58] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 19:37:58] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 19:37:59] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 19:37:59] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 19:38:00] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 19:38:00] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 19:42:04] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 19:42:05] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 19:47:15] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 19:52:32] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:52:38] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:52:43] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:53:56] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:54:02] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:54:10] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 19:54:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:54:14] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:54:15] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:54:17] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:54:24] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:55:16] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 19:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:58:14] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:58:14] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:58:14] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:58:14] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 19:58:14] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:04:03] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 20:04:20] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 20:04:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:07:58] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 20:10:31] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:10:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 20:26:44] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 20:29:57] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 14
+==========
+[2024-10-17 20:39:03] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 14
+==========
+[2024-10-17 20:39:04] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 14
+==========
+[2024-10-17 20:39:05] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 14
+==========
+[2024-10-17 20:39:07] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 14
+==========
+[2024-10-17 20:47:55] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 14
+==========
+[2024-10-17 20:49:22] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 20:50:04] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 20:50:05] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 20:50:39] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 20:50:39] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 20:57:17] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 20:57:21] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 14
+==========
+[2024-10-17 20:57:37] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 20:57:40] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 20:57:48] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 21:01:13] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 21:01:13] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 21:01:14] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 21:01:14] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 21:01:15] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 21:05:31] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 21:05:33] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 21:08:23] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 21:12:36] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 21:13:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 21:14:23] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 21:14:24] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 21:14:25] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 21:14:25] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 66
+==========
+[2024-10-17 21:14:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 67
+==========
+[2024-10-17 21:14:44] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 67
+==========
+[2024-10-17 21:14:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 67
+==========
+[2024-10-17 21:15:44] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 67
+==========
+[2024-10-17 21:15:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 67
+==========
+[2024-10-17 21:17:13] Текст ошибки: Class "wfm\Controller" not found | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 9
+==========
+[2024-10-17 21:17:16] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:17:40] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:17:41] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:17:41] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:17:41] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:17:41] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:17:42] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:18:34] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:18:35] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:18:35] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:18:35] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:18:36] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:18:36] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:18:36] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:21:06] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:21:07] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:21:08] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:21:08] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:21:08] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:21:08] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:21:08] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:21:09] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:24:14] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:24:15] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:24:15] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:28:12] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:28:13] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:28:14] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:28:14] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:28:14] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:28:14] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:28:44] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:28:45] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:28:45] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:28:45] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:28:46] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:28:54] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:28:55] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:28:55] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 54
+==========
+[2024-10-17 21:29:38] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 21:29:38] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 53
+==========
+[2024-10-17 21:31:12] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:31:13] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:31:14] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:31:14] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:31:14] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:31:14] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:55:11] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:55:12] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:55:13] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:55:13] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:55:13] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:55:13] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:55:14] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:55:14] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:55:15] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:55:15] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:55:15] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 21:55:35] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 21:55:47] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/app/views/layouts/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 50
+==========
+[2024-10-17 21:56:45] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/app/views/layouts/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 51
+==========
+[2024-10-17 21:57:17] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/app/views/layouts/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 51
+==========
+[2024-10-17 21:57:31] Текст ошибки: Не найден шаблон E:\OSPanel\home\PHPFramework/app/views/layouts/ishop | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\View.php
+| Строка: 51
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:58:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 21:59:32] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 22:00:28] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 22:00:29] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 22:00:29] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 22:02:19] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 22:02:39] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 51
+==========
+[2024-10-17 22:02:46] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:03:58] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:03:59] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:05:43] Текст ошибки: syntax error, unexpected variable "$this" | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 22:05:45] Текст ошибки: syntax error, unexpected variable "$this" | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 22:05:53] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:05:54] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:07:25] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:09:22] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:09:23] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:09:23] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:09:23] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:10:53] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:10:54] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:10:54] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:10:54] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:10:54] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:12:06] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:12:06] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:12:07] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:12:07] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:12:08] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:12:21] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:12:22] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:12:22] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:24:49] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:24:50] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:24:51] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:25:15] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:25:37] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:25:37] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:25:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:25:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:25:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:25:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:25:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:25:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:25:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:25:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:25:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:25:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:25:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:25:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:25:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:25:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:19] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:26:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:27:33] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:29:07] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:32:49] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:32:50] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:32:51] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:32:51] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:32:51] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:32:51] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:33:55] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:33:56] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:33:57] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:33:58] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:34:39] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:35:25] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:35:26] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:35:26] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:35:26] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:36:12] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:36:13] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:36:13] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:36:13] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:36:26] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 22:37:53] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:37:54] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:37:54] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:37:54] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 22:38:46] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:38:48] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:48:44] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:48:44] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:48:45] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:48:45] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:55:14] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:55:15] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:55:15] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:55:16] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:55:16] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:55:16] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:55:16] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:55:17] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:55:17] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:55:17] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:55:17] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:56:26] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:56:27] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:56:27] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:56:28] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:56:28] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:56:28] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:56:28] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:56:28] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:56:29] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:56:29] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:56:30] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:56:31] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:56:32] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:56:32] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:58:56] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:58:57] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:58:58] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:58:58] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:58:58] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:58:58] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:58:58] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:58:59] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:58:59] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:58:59] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:59:03] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:59:03] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 22:59:04] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 23:03:21] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 23:03:23] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:02] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:02] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:02] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:02] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:02] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:04:22] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 15
+==========
+[2024-10-17 23:11:05] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:11:06] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:11:07] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:13:24] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:13:25] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:13:38] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:14:59] Текст ошибки: Attempt to read property "name" on string | Файл: E:\OSPanel\home\PHPFramework\app\views\Main\index.php
+| Строка: 4
+==========
+[2024-10-17 23:15:00] Текст ошибки: Attempt to read property "name" on string | Файл: E:\OSPanel\home\PHPFramework\app\views\Main\index.php
+| Строка: 4
+==========
+[2024-10-17 23:15:01] Текст ошибки: Attempt to read property "name" on string | Файл: E:\OSPanel\home\PHPFramework\app\views\Main\index.php
+| Строка: 4
+==========
+[2024-10-17 23:16:31] Текст ошибки: foreach() argument must be of type array|object, string given | Файл: E:\OSPanel\home\PHPFramework\app\views\Main\index.php
+| Строка: 3
+==========
+[2024-10-17 23:16:32] Текст ошибки: foreach() argument must be of type array|object, string given | Файл: E:\OSPanel\home\PHPFramework\app\views\Main\index.php
+| Строка: 3
+==========
+[2024-10-17 23:16:32] Текст ошибки: foreach() argument must be of type array|object, string given | Файл: E:\OSPanel\home\PHPFramework\app\views\Main\index.php
+| Строка: 3
+==========
+[2024-10-17 23:16:32] Текст ошибки: foreach() argument must be of type array|object, string given | Файл: E:\OSPanel\home\PHPFramework\app\views\Main\index.php
+| Строка: 3
+==========
+[2024-10-17 23:16:32] Текст ошибки: foreach() argument must be of type array|object, string given | Файл: E:\OSPanel\home\PHPFramework\app\views\Main\index.php
+| Строка: 3
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:16:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:17:20] Текст ошибки: Attempt to read property "name" on string | Файл: E:\OSPanel\home\PHPFramework\app\views\Main\index.php
+| Строка: 4
+==========
+[2024-10-17 23:18:07] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:19:11] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:28:03] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:28:06] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:28:07] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:28:40] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:33:08] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:33:09] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:33:10] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:33:10] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:33:10] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:35:11] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:11] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:11] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:11] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:11] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:11] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-17 23:35:30] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-17 23:35:46] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:35:48] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:36:13] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:36:14] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:37:04] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:37:05] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:47:57] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:48:34] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:48:35] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:48:36] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:50:00] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:50:01] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:50:01] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:50:02] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:50:02] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:50:02] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:50:02] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:50:09] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:50:09] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:50:10] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:53:09] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:53:49] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:53:50] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:53:50] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:53:50] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:55:14] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:55:15] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:55:15] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:55:16] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:55:16] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:55:28] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-17 23:58:43] Текст ошибки: class_exists(): Passing null to parameter #1 ($class) of type string is deprecated | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 25
+==========
+[2024-10-17 23:58:44] Текст ошибки: class_exists(): Passing null to parameter #1 ($class) of type string is deprecated | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 25
+==========
+[2024-10-17 23:59:36] Текст ошибки: class_exists(): Passing null to parameter #1 ($class) of type string is deprecated | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 26
+==========
+[2024-10-17 23:59:37] Текст ошибки: class_exists(): Passing null to parameter #1 ($class) of type string is deprecated | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 26
+==========
+[2024-10-17 23:59:37] Текст ошибки: class_exists(): Passing null to parameter #1 ($class) of type string is deprecated | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 26
+==========
+[2024-10-17 23:59:37] Текст ошибки: class_exists(): Passing null to parameter #1 ($class) of type string is deprecated | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 26
+==========
+[2024-10-18 00:02:01] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-18 00:02:02] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-18 00:02:02] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-18 00:04:20] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-18 00:04:21] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-18 00:04:21] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-18 00:04:21] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-18 00:05:08] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 25
+==========
+[2024-10-18 00:05:09] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 25
+==========
+[2024-10-18 00:05:10] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 25
+==========
+[2024-10-18 00:06:37] Текст ошибки: Class "app\model\Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 26
+==========
+[2024-10-18 00:06:38] Текст ошибки: Class "app\model\Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 26
+==========
+[2024-10-18 00:06:39] Текст ошибки: Class "app\model\Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 26
+==========
+[2024-10-18 00:06:39] Текст ошибки: Class "app\model\Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 26
+==========
+[2024-10-18 00:06:39] Текст ошибки: Class "app\model\Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 26
+==========
+[2024-10-18 00:06:56] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 26
+==========
+[2024-10-18 00:07:12] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 26
+==========
+[2024-10-18 00:07:13] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 26
+==========
+[2024-10-18 00:07:34] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 26
+==========
+[2024-10-18 00:07:34] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 26
+==========
+[2024-10-18 00:08:45] Текст ошибки: A database has already been specified for this key. | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 416
+==========
+[2024-10-18 00:08:46] Текст ошибки: A database has already been specified for this key. | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 416
+==========
+[2024-10-18 00:12:19] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-18 00:12:20] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-18 00:12:43] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-18 00:16:24] Текст ошибки: require_once(wfm\Main): Failed to open stream: No such file or directory | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 5
+==========
+[2024-10-18 00:20:00] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-18 00:20:03] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-18 00:30:02] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 35
+==========
+[2024-10-18 00:30:03] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 35
+==========
+[2024-10-18 00:30:03] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 35
+==========
+[2024-10-18 00:30:04] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 35
+==========
+[2024-10-18 00:30:04] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 35
+==========
+[2024-10-18 00:30:05] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 35
+==========
+[2024-10-18 00:30:05] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 35
+==========
+[2024-10-18 00:30:46] Текст ошибки: A database has already been specified for this key. | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 416
+==========
+[2024-10-18 00:30:47] Текст ошибки: A database has already been specified for this key. | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 416
+==========
+[2024-10-18 00:30:47] Текст ошибки: A database has already been specified for this key. | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 416
+==========
+[2024-10-18 00:30:59] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 17:21:04] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 17:21:04] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 19:39:38] Текст ошибки: A database has already been specified for this key. | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 416
+==========
+[2024-10-19 19:50:34] Текст ошибки: Call to undefined method wfm\Db::getInstance() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Model.php
+| Строка: 19
+==========
+[2024-10-19 19:50:35] Текст ошибки: Call to undefined method wfm\Db::getInstance() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Model.php
+| Строка: 19
+==========
+[2024-10-19 19:50:36] Текст ошибки: Call to undefined method wfm\Db::getInstance() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Model.php
+| Строка: 19
+==========
+[2024-10-19 19:50:36] Текст ошибки: Call to undefined method wfm\Db::getInstance() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Model.php
+| Строка: 19
+==========
+[2024-10-19 19:50:36] Текст ошибки: Call to undefined method wfm\Db::getInstance() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Model.php
+| Строка: 19
+==========
+[2024-10-19 19:50:37] Текст ошибки: Call to undefined method wfm\Db::getInstance() | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Model.php
+| Строка: 19
+==========
+[2024-10-19 19:52:06] Текст ошибки: A database has already been specified for this key. | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 416
+==========
+[2024-10-19 20:03:57] Текст ошибки: During class fetch: Uncaught ParseError: syntax error, unexpected token "static" in E:\OSPanel\home\PHPFramework\vendor\wfm\TSingleton.php:7
+Stack trace:
+#0 E:\OSPanel\home\PHPFramework\vendor\composer\ClassLoader.php(427): Composer\Autoload\{closure}('E:\\OSPanel\\home...')
+#1 E:\OSPanel\home\PHPFramework\vendor\wfm\Registry.php(5): Composer\Autoload\ClassLoader->loadClass('wfm\\TSingleton')
+#2 E:\OSPanel\home\PHPFramework\vendor\composer\ClassLoader.php(576): include('E:\\OSPanel\\home...')
+#3 E:\OSPanel\home\PHPFramework\vendor\composer\ClassLoader.php(427): Composer\Autoload\{closure}('E:\\OSPanel\\home...')
+#4 E:\OSPanel\home\PHPFramework\vendor\wfm\App.php(19): Composer\Autoload\ClassLoader->loadClass('wfm\\Registry')
+#5 E:\OSPanel\home\PHPFramework\public\index.php(11): wfm\App->__construct()
+#6 {main} | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Registry.php
+| Строка: 5
+==========
+[2024-10-19 20:07:45] Текст ошибки: A database has already been specified for this key. | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 416
+==========
+[2024-10-19 20:10:48] Текст ошибки: A database has already been specified for this key. | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 416
+==========
+[2024-10-19 20:10:49] Текст ошибки: A database has already been specified for this key. | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 416
+==========
+[2024-10-19 20:10:50] Текст ошибки: A database has already been specified for this key. | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 416
+==========
+[2024-10-19 20:10:50] Текст ошибки: A database has already been specified for this key. | Файл: E:\OSPanel\home\PHPFramework\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 416
+==========
+[2024-10-19 20:24:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:24:21] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:25:34] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-19 20:25:45] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-19 20:26:01] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: E:\OSPanel\home\PHPFramework\app\controllers\MainController.php
+| Строка: 16
+==========
+[2024-10-19 20:26:10] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:26:11] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:26:13] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:26:13] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:26:14] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:26:14] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:59] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:59] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:59] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:59] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:59] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:59] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:59] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:59] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:59] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:59] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:59] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:59] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:59] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:26:59] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:27:45] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:27:50] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:27:51] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:27:52] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:29:20] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:31:59] Текст ошибки: Class name must be a valid object or a string | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:32:00] Текст ошибки: Class name must be a valid object or a string | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:32:00] Текст ошибки: Class name must be a valid object or a string | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:32:01] Текст ошибки: Class name must be a valid object or a string | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:32:01] Текст ошибки: Class name must be a valid object or a string | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:32:49] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:33:20] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:33:42] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:33:43] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:33:50] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:33:51] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:33:56] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:34:21] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:34:54] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:34:55] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:34:55] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:34:55] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:34:56] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:34:56] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:34:56] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:34:57] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:34:57] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:34:57] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:34:57] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:34:58] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:35:10] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:35:11] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:35:12] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:35:19] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:35:50] Текст ошибки: syntax error, unexpected token "`", expecting "class" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:35:50] Текст ошибки: syntax error, unexpected token "`", expecting "class" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:35:51] Текст ошибки: syntax error, unexpected token "`", expecting "class" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:35:51] Текст ошибки: syntax error, unexpected token "`", expecting "class" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:35:51] Текст ошибки: syntax error, unexpected token "`", expecting "class" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:35:51] Текст ошибки: syntax error, unexpected token "`", expecting "class" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:35:52] Текст ошибки: syntax error, unexpected token "`", expecting "class" | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:36:19] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:36:43] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:38:16] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:38:17] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:38:17] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:38:18] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:38:18] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:38:18] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:38:18] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:38:19] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:38:19] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:38:20] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:38:20] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:38:21] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:38:21] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:38:21] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:41:17] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:41:18] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:41:18] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:41:18] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:41:18] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:41:19] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:41:19] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:41:19] Текст ошибки: Class "Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:42:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:43:26] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:43:28] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:43:29] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:43:30] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:44:09] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:44:10] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:44:10] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:44:10] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:44:11] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:44:11] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:44:31] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:44:59] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:44:59] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:45:00] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:45:00] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:45:00] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:45:01] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:45:19] Текст ошибки: Class "app/models/Main.php" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:45:20] Текст ошибки: Class "app/models/Main.php" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:45:21] Текст ошибки: Class "app/models/Main.php" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:45:21] Текст ошибки: Class "app/models/Main.php" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:45:21] Текст ошибки: Class "app/models/Main.php" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:45:21] Текст ошибки: Class "app/models/Main.php" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:45:47] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:45:48] Текст ошибки: Class "app/models/Main" not found | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Controller.php
+| Строка: 27
+==========
+[2024-10-19 20:47:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:29] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:29] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:29] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:29] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:29] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:29] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:29] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:29] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:29] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:29] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:29] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:29] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:29] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:47:29] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-19 20:58:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\PHPFramework\vendor\wfm\Router.php
+| Строка: 64
+==========

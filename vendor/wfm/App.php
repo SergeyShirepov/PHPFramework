@@ -2,11 +2,16 @@
 
 namespace wfm;
 
+use Exception;
+
 class App
 {
 
-    public static  $app;
+    public static $app;
 
+    /**
+     * @throws Exception
+     */
     public function  __construct()
     {
         $query = trim(urldecode($_SERVER['QUERY_STRING']), '/');

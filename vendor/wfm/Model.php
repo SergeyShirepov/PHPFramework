@@ -2,8 +2,11 @@
 
 namespace wfm;
 
+use RedBeanPHP\R;
+
 abstract class Model
 {
+
 
     public array $attributes = [];
     public array $errors = [];

@@ -2,12 +2,13 @@
 
 namespace wfm;
 
-
+use app\models\Main;
+use wfm\Model;
 
 class Controller
 {
 public array $data = [];
-public array $meta = ['tittle' => '', 'discription' => '', 'keywords' => ''];
+public array $meta = ['tittle' => '', 'description' => '', 'keywords' => ''];
 public false|string $layout = '';
 public string $view = '';
 public object $model;
@@ -20,7 +21,7 @@ public object $model;
 
     public function  getModel(): void
     {
-        $model =  'app\\model\\' . $this->route['admin_prefix'] . $this->route['controller'];
+        $model =  'app\models\\' . $this->route['admin_prefix'] . $this->route['controller'];
         if (class_exists($model)) {
             $this->model = new $model();
         }
