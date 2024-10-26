@@ -3,18 +3,17 @@
 namespace app\controllers;
 
 use app\models\Main;
-use wfm\Controller;
 use RedBeanPHP\R;
 
-
-class MainController extends Controller
+/** @property Main $model */
+class MainController extends AppController
 {
-
     public function indexAction(): void
     {
-
-        $names = $this->model->get_names();
-        $this->setMeta('Главная страница', 'Description...', 'keywords...');
-        $this->set(compact('names'));
+        $slides = R::findAll('slider');
+        $products = $this->model->get_hits(1,3);
+        $this->set(compact('slides', 'products'));
+        $this->setMeta("Главная страница", "description", "keywords");
     }
+
 }

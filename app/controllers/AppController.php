@@ -2,7 +2,14 @@
 
 namespace app\controllers;
 
-class AppController
-{
+use app\models\AppModel;
+use wfm\Controller;
 
+class AppController extends Controller
+{
+    public function __construct($route)
+    {
+        parent::__construct($route);
+        new AppModel();
+    }
 }

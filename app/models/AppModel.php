@@ -2,7 +2,9 @@
 
 namespace app\models;
 
-class AppModel
+use wfm\Model;
+
+class AppModel extends Model
 {
 
 }

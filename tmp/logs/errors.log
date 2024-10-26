@@ -4542,3 +4542,462 @@ Stack trace:
 [2024-10-19 22:32:17] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
 | Строка: 64
 ==========
+[2024-10-22 21:21:22] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 21:24:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 21:24:49] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 21:25:46] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 21:25:50] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 21:38:23] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:38:23] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 21:40:40] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:40:41] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:40:41] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:40:42] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:40:42] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:40:42] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:40:43] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:40:45] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:40:46] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:41:06] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:47:35] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:47:36] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:47:37] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:47:37] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:47:37] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:47:38] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 58
+==========
+[2024-10-22 21:48:51] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 21:48:52] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 21:50:51] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 21:53:34] Текст ошибки: Call to a member function getDatabase() on null | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\View.php
+| Строка: 65
+==========
+[2024-10-22 21:53:34] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 21:53:50] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 21:57:32] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 21:57:33] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 21:57:34] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 21:57:34] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 21:57:34] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 21:57:34] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 21:58:39] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 22:18:20] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 22:18:21] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 22:18:22] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 22:20:49] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 22:20:50] Текст ошибки: Call to a member function find() on null | Файл: E:\OSPanel\home\new-ishop\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php
+| Строка: 1026
+==========
+[2024-10-22 22:22:31] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:22:35] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:22:42] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:24:09] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:24:27] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:24:52] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:26:55] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:28:23] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:29:41] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:30:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:30:47] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:35:51] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:39:49] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:40:11] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:45:20] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:49:51] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:50:22] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-22 22:52:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 19:15:42] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 21:07:03] Текст ошибки: syntax error, unexpected variable "$product", expecting "(" | Файл: E:\OSPanel\home\new-ishop\app\views\Main\index.php
+| Строка: 57
+==========
+[2024-10-24 21:07:03] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 21:07:37] Текст ошибки: Undefined variable $poducts | Файл: E:\OSPanel\home\new-ishop\app\views\Main\index.php
+| Строка: 45
+==========
+[2024-10-24 21:07:41] Текст ошибки: Undefined variable $poducts | Файл: E:\OSPanel\home\new-ishop\app\views\Main\index.php
+| Строка: 45
+==========
+[2024-10-24 21:09:32] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 21:10:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 21:16:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 21:20:46] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 22:12:03] Текст ошибки: Undefined constant "products" | Файл: E:\OSPanel\home\new-ishop\app\views\Main\index.php
+| Строка: 31
+==========
+[2024-10-24 22:16:08] Текст ошибки: Undefined constant "products" | Файл: E:\OSPanel\home\new-ishop\app\views\Main\index.php
+| Строка: 31
+==========
+[2024-10-24 22:16:12] Текст ошибки: Undefined constant "products" | Файл: E:\OSPanel\home\new-ishop\app\views\Main\index.php
+| Строка: 31
+==========
+[2024-10-24 22:16:34] Текст ошибки: Cannot use isset() on the result of an expression (you can use "null !== expression" instead) | Файл: E:\OSPanel\home\new-ishop\app\views\Main\index.php
+| Строка: 31
+==========
+[2024-10-24 22:21:03] Текст ошибки: Undefined constant "products" | Файл: E:\OSPanel\home\new-ishop\app\views\Main\index.php
+| Строка: 33
+==========
+[2024-10-24 22:22:07] Текст ошибки: Undefined constant "products" | Файл: E:\OSPanel\home\new-ishop\app\views\Main\index.php
+| Строка: 33
+==========
+[2024-10-24 22:23:26] Текст ошибки: Undefined constant "products" | Файл: E:\OSPanel\home\new-ishop\app\views\Main\index.php
+| Строка: 33
+==========
+[2024-10-24 22:33:40] Текст ошибки: Undefined constant "products" | Файл: E:\OSPanel\home\new-ishop\app\views\Main\index.php
+| Строка: 33
+==========
+[2024-10-24 22:35:14] Текст ошибки: Undefined constant "products" | Файл: E:\OSPanel\home\new-ishop\app\views\Main\index.php
+| Строка: 33
+==========
+[2024-10-24 22:36:14] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 22:36:41] Текст ошибки: Undefined variable $poducts | Файл: E:\OSPanel\home\new-ishop\app\views\parts\products_loop.php
+| Строка: 4
+==========
+[2024-10-24 22:37:25] Текст ошибки: Undefined array key "title" | Файл: E:\OSPanel\home\new-ishop\app\views\parts\products_loop.php
+| Строка: 12
+==========
+[2024-10-24 22:37:25] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 22:39:09] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 22:39:09] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 22:39:31] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 22:39:32] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 22:39:32] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 22:41:14] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 22:41:14] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 22:42:46] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 22:42:46] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 22:46:51] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-24 22:46:51] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 22:41:49] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 22:41:50] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 22:41:52] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 22:42:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 22:42:12] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 22:42:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 22:42:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 22:42:14] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 22:44:02] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 22:44:02] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 22:46:30] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 22:46:30] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 22:49:30] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:00:00] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:04:01] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:04:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:04:11] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:04:18] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:04:23] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:10:01] Текст ошибки: Контроллер app\controllers\ViewController не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 61
+==========
+[2024-10-26 23:10:38] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:10:41] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:10:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:10:44] Текст ошибки: Контроллер app\controllers\Canoneos5dController не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 61
+==========
+[2024-10-26 23:10:45] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:10:48] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:10:49] Текст ошибки: Контроллер app\controllers\Canoneos5dController не найден | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 61
+==========
+[2024-10-26 23:27:25] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:27:27] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:27:32] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:27:35] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:33:54] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:34:02] Текст ошибки: syntax error, unexpected token "<", expecting end of file | Файл: E:\OSPanel\home\new-ishop\app\views\Product\view.php
+| Строка: 7
+==========
+[2024-10-26 23:34:15] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:34:15] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:34:15] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:34:15] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:34:15] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:34:15] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:39:13] Текст ошибки: Class "App" not found | Файл: E:\OSPanel\home\new-ishop\app\views\parts\header.php
+| Строка: 84
+==========
+[2024-10-26 23:39:13] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:39:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:39:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:39:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:39:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:39:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:39:28] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:39:43] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:39:53] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:43:23] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:43:57] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:43:58] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:49:31] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:49:42] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:56:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:56:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:56:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:56:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:56:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:56:06] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========
+[2024-10-26 23:56:09] Текст ошибки: Старица не найдена | Файл: E:\OSPanel\home\new-ishop\vendor\wfm\Router.php
+| Строка: 64
+==========

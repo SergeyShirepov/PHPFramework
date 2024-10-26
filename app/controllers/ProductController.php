@@ -2,7 +2,11 @@
 
 namespace app\controllers;
 
-class ProductController
+class ProductController extends AppController
 {
 
+    public function viewAction()
+    {
+
+    }
 }
