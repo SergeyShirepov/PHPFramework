@@ -1,6 +1,9 @@
 <?php
 
-namespace app\widgets\;
+namespace app\widgets\Language;
+
+
+use RedBeanPHP\R;
 
 class Language
 {
@@ -11,7 +14,7 @@ class Language
 
     public  function __construct()
     {
-        this->tpl = __DIR__ . 'lang_tpl.php';
+        $this->tpl = __DIR__ . 'lang_tpl.php';
         $this->run();
     }
 
